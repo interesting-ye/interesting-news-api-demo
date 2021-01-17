@@ -13,9 +13,8 @@
     { "id": 4, "name": "category 4", "numberofNews": 50 }
   ],
   "sources": [
-    { "subject":"source 1", "url":"www.google.com", "active":1},
-    { "subject":"source 2", "url":"www.google.com", "active":0},
-    { "subject":"source 3", "url":"www.google.com", "active":1},
-    { "subject":"source 4", "url":"www.google.com", "active":1}
+    {"id":1, "subject":"source 1", "url":"www.google.com", "active":1},
+    {"id":2, "subject":"source 3", "url":"www.google.com", "active":1},
+    {"id":3, "subject":"source 4", "url":"www.google.com", "active":1}
     ]
 }
