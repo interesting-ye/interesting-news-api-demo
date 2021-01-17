@@ -3,20 +3,19 @@
     {"id":1, "image":"test.png", "date":"Friday, 20, October, 2020" , "subject":"news subject 1", "url":"www.google.com" },
     {"id":2, "image":"test.png", "date":"Friday, 20, October, 2020" , "subject":"news subject 2", "url":"www.google.com" },
     {"id":3, "image":"test.png", "date":"Friday, 20, October, 2020" , "subject":"news subject 3", "url":"www.google.com" },
-    {"id":4, "image":"test.png", "date":"Friday, 20, October, 2020" , "subject":"news subject 4", "url":"www.google.com" },
-
+    {"id":4, "image":"test.png", "date":"Friday, 20, October, 2020" , "subject":"news subject 4", "url":"www.google.com" }
 
   ],
   "categories": [
     { "id": 1, "name": "category 1", "numberofNews": 50 },
     { "id": 2, "name": "category 2", "numberofNews": 50 },
     { "id": 3, "name": "category 3", "numberofNews": 50 },
-    { "id": 4, "name": "category 4", "numberofNews": 50 },
+    { "id": 4, "name": "category 4", "numberofNews": 50 }
   ],
   "sources": [
     { "subject":"source 1", "url":"www.google.com", "active":1},
     { "subject":"source 2", "url":"www.google.com", "active":0},
     { "subject":"source 3", "url":"www.google.com", "active":1},
-    { "subject":"source 4", "url":"www.google.com", "active":1},
+    { "subject":"source 4", "url":"www.google.com", "active":1}
     ]
 }
