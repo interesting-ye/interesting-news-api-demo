@@ -21,8 +21,14 @@
         {"id":1, "subject":"source 1", "url":"www.google.com", "active":true}
       ]
      },
-    { "id": 3, "name": "category 3", "numberofNews": 50 },
-    { "id": 4, "name": "category 4", "numberofNews": 50 }
+    { "id": 3, "name": "category 3", "numberofNews": 50, 
+      "sources":[] },
+    { "id": 4, "name": "category 4", "numberofNews": 50,
+      "sources":[
+        {"id":1, "subject":"source 1", "url":"www.google.com", "active":true},
+        {"id":1, "subject":"source 1", "url":"www.google.com", "active":true}
+      ]
+     }
   ],
   "sources": [
     {"id":1, "subject":"source 1", "url":"www.google.com", "active":true},
