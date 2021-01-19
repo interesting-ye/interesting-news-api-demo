@@ -11,22 +11,22 @@
   "categories": [
     { "id": 1, "name": "category 1", "numberofNews": 50,
       "sources":[
-        {"id":1, "subject":"source 1", "url":"www.google.com", "active":1},
-        {"id":1, "subject":"source 1", "url":"www.google.com", "active":1}
+        {"id":1, "subject":"source 1", "url":"www.google.com", "active":true},
+        {"id":1, "subject":"source 1", "url":"www.google.com", "active":true}
       ]
      },
     { "id": 2, "name": "category 2", "numberofNews": 50,
       "sources":[
-        {"id":1, "subject":"source 1", "url":"www.google.com", "active":1},
-        {"id":1, "subject":"source 1", "url":"www.google.com", "active":1}
+        {"id":1, "subject":"source 1", "url":"www.google.com", "active":true},
+        {"id":1, "subject":"source 1", "url":"www.google.com", "active":true}
       ]
      },
     { "id": 3, "name": "category 3", "numberofNews": 50 },
     { "id": 4, "name": "category 4", "numberofNews": 50 }
   ],
   "sources": [
-    {"id":1, "subject":"source 1", "url":"www.google.com", "active":1},
-    {"id":2, "subject":"source 3", "url":"www.google.com", "active":1},
-    {"id":3, "subject":"source 4", "url":"www.google.com", "active":1}
+    {"id":1, "subject":"source 1", "url":"www.google.com", "active":true},
+    {"id":2, "subject":"source 3", "url":"www.google.com", "active":true},
+    {"id":3, "subject":"source 4", "url":"www.google.com", "active":true}
     ]
 }
