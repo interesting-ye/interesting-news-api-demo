@@ -5,7 +5,7 @@
       "image": "test.png",
       "date": "Friday, 20, October, 2020",
       "subject": "news subject 1",
-      "url": "www.google.com",
+      "url": "https://github.com/",
       "categoryId": 1
     },
     {
@@ -13,7 +13,7 @@
       "image": "test.png",
       "date": "Friday, 20, October, 2020",
       "subject": "news subject 2",
-      "url": "www.google.com",
+      "url": "https://github.com/",
       "categoryId": 1
 
     },
@@ -22,7 +22,7 @@
       "image": "test.png",
       "date": "Friday, 20, October, 2020",
       "subject": "news subject 3",
-      "url": "www.google.com",
+      "url": "https://github.com/",
       "categoryId": 1
 
     },
@@ -31,14 +31,14 @@
       "image": "test.png",
       "date": "Friday, 20, October, 2020",
       "subject": "news subject 4",
-      "url": "www.google.com",
+      "url": "https://github.com/",
       "categoryId": 1
     }
   ],
   "categories": [
     {
       "id": 1,
-      "name": "category 1",
+      "name": "التصنيف الاول ",
       "numberofNews": 50,
       "userId": 1,
       "sources": [
